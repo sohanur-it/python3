@@ -5,7 +5,7 @@ while True:
 	n=int(n)
 
 	if n<0:
-		print("we only allows positive number,please try again letter")
+		print("we only allows positive number,please try again letter :")
 
 
 	if n==0:
